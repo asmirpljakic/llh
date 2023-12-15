@@ -67,7 +67,7 @@
     "id": "recNZ0koOqEmilmoz",
     "name": "entertainment center",
     "price": 59999,
-    "image": "https://www.course-api.com/images/store/product-7.jpeg",
+    "image": "https://res.cloudinary.com/dovqdeqm6/image/upload/v1702632072/lem-luxury-home/Pocetna_kijgmw.jpg",
     "featured": true,
     "colors": ["#000", "#ff0000"],
     "company": "caressa",
